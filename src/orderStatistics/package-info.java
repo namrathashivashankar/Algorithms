@@ -5,4 +5,4 @@
  * @author Namratha
  *
  */
-package sorting;
+package orderStatistics;
